@@ -1,9 +1,9 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "releaseDate": "2026-10-25",
-  "changelog": "🚀 Atualização v1.3.2:\n⚡ Auto-Update instantâneo: bypass de cache CDN Fastly e logs em tempo real na interface;\n🎮 Treinador de Buffs 100% In-Game Overlay (janela abre diretamente sobre o cliente do jogo ativo ao pressionar Insert);\n🎯 Detecção perfeita de RF_Online_4gb.bin e RF_Online.bin com auto-injeção de RfTarget.dll se ausente;\n🏷️ Categorias de skills fiéis ao jogo (Básica, Experiente, Elite, Classe, Força) sem Supremo;\n⌨️ Tecla Insert e ESC para abrir e fechar instantaneamente sobre o jogo.",
+  "changelog": "🚀 Atualização v1.3.3:\n🎯 Correção de Meta de Nível: corrigido bug onde a meta ficava travada em Lv 7 e a skill não pulava para a próxima ao atingir o nível desejado (ex: Lv 4);\n🎚️ Controle de Nível Deslizante & Digitável: Slider suave de 1 a 7 para arrastar com o mouse + campo direto para digitar o número + botões (+, -, MAX), eliminando popups brancos do Windows;\n📋 Ajuste de Meta em Tempo Real: agora é possível alterar a meta de nível diretamente nos itens da fila enquanto treina;\n📌 Janela Presa ao Jogo: overlay ancorado ao cliente RF_Online_4gb.bin, segue o movimento e não sai das bordas da tela;\n🖱️ Drag-and-Drop: suporte a arrastar habilidades do catálogo e soltar na fila de treino.",
   "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
-  "launcherSha256": "48d57f96f2e278fee52c0d8d847e36d08cdd165b6a1c080babe4534e29f867dc",
+  "launcherSha256": "4fcd9d679cef146d41746dc356fc4d10e1c5f4d32ff4e2c092ec6afbd8ae5b75",
   "questsVersion": "1.0.0",
   "questsUrl": "",
   "mandatory": false
