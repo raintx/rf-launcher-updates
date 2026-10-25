@@ -1,0 +1,10 @@
+{
+  "version": "1.3.1",
+  "releaseDate": "2026-10-25",
+  "changelog": "⚡ Treinador de Buffs Automático (Auto Buff Trainer) em segundo plano via DLL (Insert para abrir/fechar);\n🎯 Suporte a todas as skills (básicas, experiente, elite, supremo, classe) com busca em tempo real;\n📋 Fila de treinamento com avanço automático ao atingir o nível desejado (Lv 1 a 7);\n🔄 Nova build da RfTarget.dll integrada (Build 20261018.7);\n🚀 Sistema de Auto-Update 100% automático e silencioso ao abrir (Opção B);\n💾 Persistência de conta selecionada por slot.",
+  "launcherUrl": "https://github.com/raintx/rf-launcher-updates/releases/download/v1.3.1/RfLauncher.exe",
+  "launcherSha256": "80de3828357eb158e2a8c3f329a2494451584dcd4092bebd53b302d128fa1a8c",
+  "questsVersion": "1.0.0",
+  "questsUrl": "",
+  "mandatory": false
+}
