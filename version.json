@@ -1,10 +1,10 @@
-﻿{
-    "questsVersion":  "1.0.0",
-    "launcherUrl":  "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
-    "mandatory":  false,
-    "launcherSha256":  "a8eba503e45de6060d95c5b8ad961b7b591a68536c6f70743441186f22e0f526",
-    "questsUrl":  "",
-    "releaseDate":  "2026-10-25",
-    "version":  "1.3.4",
-    "changelog":  "рџљЂ AtualizaГ§ГЈo v1.3.4:\nрџ›‘ CorreГ§ГЈo do BotГЈo Parar: o botГЈo agora interrompe imediatamente o loop de treinamento e reseta os status da fila;\nв†•пёЏ ReordenaГ§ГЈo da Fila por Drag-and-Drop: agora Г© possГ­vel arrastar e soltar as habilidades dentro da prГіpria fila para reordenar a prioridade de treino com o mouse;\nрџ§І MovimentaГ§ГЈo Suave \u0027Bate e Fica\u0027: sistema de arrasto com captura de cursor que bate na borda do cliente de forma sГіlida e nГЈo passa nem \u0027buga\u0027;\nрџ–ҐпёЏ PreservaГ§ГЈo no Alt-Tab: o overlay nГЈo fecha mais ao dar Alt-Tab; minimiza suavemente quando o jogo Г© minimizado e restaura quando o jogo volta;\nрџЊђ Suporte a mГєltiplos executГЎveis (RF_Online.bin e RF_Online_4gb.bin)."
+{
+    "questsVersion": "1.0.0",
+    "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
+    "mandatory": false,
+    "launcherSha256": "9e1841b3d09f8dd00bc9fa3d949dab2fabbddbc313a3287387c72bc69cfc3735",
+    "questsUrl": "",
+    "releaseDate": "2026-10-25",
+    "version": "1.3.5",
+    "changelog": "🚀 Atualização v1.3.5:\n👥 Treino Simultâneo e Isolado para Multi-Client (Dual-Box):\n• Cada cliente do jogo agora possui sua janela de Treinador de Buffs 100% independente por PID;\n• As filas de habilidades e loops de treino não se misturam: o que treina em um personagem não interfere no outro;\n• Permite treinar a mesma habilidade simultaneamente em 2 ou mais contas;\n• Título de cada janela exibe o nome do personagem e o PID correspondente;\n• Tecla INSERT dentro de cada jogo foca/alterna o treinador correspondente àquele cliente."
 }
