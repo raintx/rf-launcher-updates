@@ -1,10 +1,10 @@
-{
-  "version": "1.3.3",
-  "releaseDate": "2026-10-25",
-  "changelog": "🚀 Atualização v1.3.3:\n🎯 Correção de Meta de Nível: corrigido bug onde a meta ficava travada em Lv 7 e a skill não pulava para a próxima ao atingir o nível desejado (ex: Lv 4);\n🎚️ Controle de Nível Deslizante & Digitável: Slider suave de 1 a 7 para arrastar com o mouse + campo direto para digitar o número + botões (+, -, MAX), eliminando popups brancos do Windows;\n📋 Ajuste de Meta em Tempo Real: agora é possível alterar a meta de nível diretamente nos itens da fila enquanto treina;\n📌 Janela Presa ao Jogo: overlay ancorado ao cliente RF_Online_4gb.bin, segue o movimento e não sai das bordas da tela;\n🖱️ Drag-and-Drop: suporte a arrastar habilidades do catálogo e soltar na fila de treino.",
-  "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
-  "launcherSha256": "4fcd9d679cef146d41746dc356fc4d10e1c5f4d32ff4e2c092ec6afbd8ae5b75",
-  "questsVersion": "1.0.0",
-  "questsUrl": "",
-  "mandatory": false
+﻿{
+    "questsVersion":  "1.0.0",
+    "launcherUrl":  "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
+    "mandatory":  false,
+    "launcherSha256":  "a8eba503e45de6060d95c5b8ad961b7b591a68536c6f70743441186f22e0f526",
+    "questsUrl":  "",
+    "releaseDate":  "2026-10-25",
+    "version":  "1.3.4",
+    "changelog":  "рџљЂ AtualizaГ§ГЈo v1.3.4:\nрџ›‘ CorreГ§ГЈo do BotГЈo Parar: o botГЈo agora interrompe imediatamente o loop de treinamento e reseta os status da fila;\nв†•пёЏ ReordenaГ§ГЈo da Fila por Drag-and-Drop: agora Г© possГ­vel arrastar e soltar as habilidades dentro da prГіpria fila para reordenar a prioridade de treino com o mouse;\nрџ§І MovimentaГ§ГЈo Suave \u0027Bate e Fica\u0027: sistema de arrasto com captura de cursor que bate na borda do cliente de forma sГіlida e nГЈo passa nem \u0027buga\u0027;\nрџ–ҐпёЏ PreservaГ§ГЈo no Alt-Tab: o overlay nГЈo fecha mais ao dar Alt-Tab; minimiza suavemente quando o jogo Г© minimizado e restaura quando o jogo volta;\nрџЊђ Suporte a mГєltiplos executГЎveis (RF_Online.bin e RF_Online_4gb.bin)."
 }
