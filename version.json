@@ -1,9 +1,9 @@
 {
   "version": "1.3.1",
   "releaseDate": "2026-10-25",
-  "changelog": "⚡ Treinador de Buffs Automático em segundo plano via DLL (Insert para abrir/fechar);\n🎯 Detecção automática do personagem ativo no jogo ao apertar Insert;\n📋 Fila de treinamento com avanço automático ao atingir o nível desejado (Lv 1 a 7);\n🔄 Nova build da RfTarget.dll integrada (Build 20261018.7);\n🚀 Sistema de Auto-Update 100% automático e silencioso ao abrir (Opção B);\n💾 Persistência de conta selecionada por slot.",
+  "changelog": "⚡ Treinador de Buffs Automático em segundo plano via DLL (Insert para abrir/fechar);\n🎯 Detecção automática do personagem ativo no jogo ao apertar Insert;\n📋 Fila de treinamento com avanço automático ao atingir o nível desejado (Lv 1 a 7);\n🔄 Nova build da RfTarget.dll integrada (Build 20261018.7);\n🚀 Sistema de Auto-Update 100% automático e silencioso ao abrir;\n💾 Persistência de conta selecionada por slot;\n🛡️ Verificação e auto-extração de arquivos essenciais (RfTarget.dll).",
   "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
-  "launcherSha256": "689c5cb3de876d668e4d94e0719c570b9c0a266603e9b6a674c3ff9156336ffa",
+  "launcherSha256": "44c972d753bc451986b426a87cdf41a4c2ad4622e14a316bc5ef3fd20a0d477e",
   "questsVersion": "1.0.0",
   "questsUrl": "",
   "mandatory": false
