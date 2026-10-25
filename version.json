@@ -1,9 +1,9 @@
 {
   "version": "1.3.1",
   "releaseDate": "2026-10-25",
-  "changelog": "⚡ Treinador de Buffs Automático em segundo plano via DLL (Insert para abrir/fechar);\n🎯 Detecção automática do personagem ativo no jogo ao apertar Insert;\n📋 Fila de treinamento com avanço automático ao atingir o nível desejado (Lv 1 a 7);\n🔄 Nova build da RfTarget.dll integrada (Build 20261018.7);\n🔒 Atalho Insert e recursos de DLL desativados quando Tab-Targeting estiver desmarcado;\n🛡️ Verificação e auto-extração de arquivos essenciais (RfTarget.dll).",
+  "changelog": "⚡ Treinador de Buffs 100% In-Game Overlay (aparece centralizado sobre a tela do jogo ativo);\n🎯 Detecção perfeita de processos RF_Online_4gb.bin e RF_Online.bin com auto-injeção de RfTarget.dll se ausente;\n📋 Remoção de qualquer botão no launcher (interface limpa e estritamente in-game);\n🏷️ Categorias de skills corrigidas para o padrão do jogo (Básica, Experiente, Elite, Classe, Força) sem Supremo;\n⌨️ Tecla Insert e ESC para abrir e fechar instantaneamente sobre o cliente do jogo.",
   "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
-  "launcherSha256": "5d6669a8cf524522ce12a6f5a2170528f5e69993de1f19ab9e48aa0912b83006",
+  "launcherSha256": "3b68a93f86bd1b38bc0e79a773dd64d13942ed5afb56798cc746e7c00dfcb9cd",
   "questsVersion": "1.0.0",
   "questsUrl": "",
   "mandatory": false
