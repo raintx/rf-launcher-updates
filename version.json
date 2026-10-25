@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "f003adfdf6bfdf72d8ab5d10cadaa71e1ea50463ecfb1511cc096f9fc4cde4af",
+    "launcherSha256": "77244191e00090892966ba24ce4fe927800db32673896e30c4c427b900a264ba",
     "questsUrl": "",
     "releaseDate": "2026-10-25",
-    "version": "1.3.6",
-    "changelog": "🚀 Atualização v1.3.6:\n⚡ Opção 'Manter o PC ativo' (Anti-Sleep & Anti-Display Off):\n• Impede que o Windows desligue o monitor ou suspenda o computador enquanto o jogo estiver aberto ou em sessões AFK;\n• Elimina completamente os travamentos e congelamentos do DirectX 9 / R3Engine causados pelo desligamento da tela;\n• Opção disponível na aba principal do Launcher, nas configurações gráficas e diretamente no Treinador de Buffs;\n• Renovação periódica via Win32 SetThreadExecutionState no thread principal para máxima estabilidade;\n• Restauração automática do gerenciamento normal de energia do Windows ao desativar ou fechar o Launcher."
+    "version": "1.3.7",
+    "changelog": "🚀 Atualização v1.3.7:\n🎯 Correção do Tab-Targeting (Ignorar Alvos Mortos):\n• Corrigido o bug onde a tecla Tab mirava no monstro morto mais próximo logo após derrotá-lo;\n• O motor de seleção agora verifica os estados de morte (high nibble 5/9 em +0x250) e HP residual (+0x274) na memória nativa;\n• Corpos caídos e monstros em animação de morte são descartados da lista de candidatos;\n• O Tab agora mira diretamente e com prioridade no alvo VIVO mais próximo!"
 }
