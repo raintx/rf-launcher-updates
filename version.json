@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "77244191e00090892966ba24ce4fe927800db32673896e30c4c427b900a264ba",
+    "launcherSha256": "e27481ede0c8de188a2fb415c690e9b37ed4325eb094c8655b2a09205ece5092",
     "questsUrl": "",
-    "releaseDate": "2026-10-25",
-    "version": "1.3.7",
-    "changelog": "🚀 Atualização v1.3.7:\n🎯 Correção do Tab-Targeting (Ignorar Alvos Mortos):\n• Corrigido o bug onde a tecla Tab mirava no monstro morto mais próximo logo após derrotá-lo;\n• O motor de seleção agora verifica os estados de morte (high nibble 5/9 em +0x250) e HP residual (+0x274) na memória nativa;\n• Corpos caídos e monstros em animação de morte são descartados da lista de candidatos;\n• O Tab agora mira diretamente e com prioridade no alvo VIVO mais próximo!"
+    "releaseDate": "2026-10-26",
+    "version": "1.3.8",
+    "changelog": "🚀 Atualização v1.3.8:\n✨ Ícone Oficial do Programa:\n• Criado ícone temático de alta definição (app.ico e app.png) incorporado ao executável RfLauncher e janelas do sistema.\n🎯 Controle Granular de Injeções (Cliente 100% Puro):\n• Adicionada opção 'Ativar Treinador de Buffs e Menu In-Game (Tecla Insert)';\n• Se Tab-Targeting e Treinador de Buffs estiverem desmarcados, nenhuma DLL é injetada no jogo (cliente original/limpo);\n• Removida a injeção oculta durante a enumeração periódica de processos;\n🏷️ Renomeação Dinâmica na Barra de Tarefas:\n• Adicionada opção 'Renomear janela na Barra de Tarefas com o nome do personagem' ('RF Online - NomeDoChar');\n• Permite identificar facilmente cada cliente aberto na barra de tarefas e no Alt+Tab sem congelamentos."
 }
