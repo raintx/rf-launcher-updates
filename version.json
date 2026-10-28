@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "1686cab5066e98dfa6304eb7c97522b6f0ff74a4369f06ccfbe092745cff49d5",
+    "launcherSha256": "cff7ebe4c8be447d500b1e1e953ac13a57a6c590a051775e3fb14b96fd94e6af",
     "questsUrl": "",
     "releaseDate": "2026-10-27",
-    "version": "1.4.0",
-    "changelog": "Versão 1.4.0: interface nova\n• Contas: um cartão por slot, com Premium, Cash, tempo jogado e personagens.\n• Gráficos: resolução recomendada, régua, resolução e perfil por slot, modo Sem borda e Tela cheia.\n• Reparar: console dos arquivos e lista de Exceções.\n• Reportar problema: copia ou salva o relatório com a captura de tela.\n• Texto russo e português legível, automático.\n• NJ por PM (opcional, tecla DEL).\n• Opção \"Reduzir animações\"."
+    "version": "1.4.1",
+    "changelog": "Versão 1.4.1\n• Contas: uma conta logada em outro PC não trava mais o slot; a lista mostra \"outro PC\".\n• NJ por PM: lembra o personagem e liga sozinho; tira o alvo depois do buff."
 }
