@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "cff7ebe4c8be447d500b1e1e953ac13a57a6c590a051775e3fb14b96fd94e6af",
+    "launcherSha256": "2baa4fafe708544de9dec5d0b4a7771b616ec05f644335a64da269e554218bf3",
     "questsUrl": "",
-    "releaseDate": "2026-10-27",
-    "version": "1.4.1",
-    "changelog": "Versão 1.4.1\n• Contas: uma conta logada em outro PC não trava mais o slot; a lista mostra \"outro PC\".\n• NJ por PM: lembra o personagem e liga sozinho; tira o alvo depois do buff."
+    "releaseDate": "2026-10-28",
+    "version": "1.4.2",
+    "changelog": "Versão 1.4.2\n• Treinador de buffs: mais leve com 2 ou mais clientes abertos."
 }
