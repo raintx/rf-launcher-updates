@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "0255b06ba40e1be6d409ce3a9932bff347265e4ef272b51c93992128418c7bc6",
+    "launcherSha256": "944b0ad2b983f8758e7c367222dcfd5a55077ade5248ad87f7b3647c25fcf36c",
     "questsUrl": "",
     "releaseDate": "2026-10-29",
-    "version": "1.4.7",
-    "changelog": "Versão 1.4.7\n• Treinador de buffs com visual novo. Skill não aprendida só é bloqueada quando o jogo confirma; sem leitura, aparece como \"não confirmado\".\n• NJ: as respostas por PM agora podem ser editadas em cada situação (deixe em branco para não responder) e não levam mais o \"NJ:\" na frente.\n• O launcher não trava mais enquanto um cliente do jogo está fechando ou parado. O NJ e o Treinador continuam funcionando."
+    "version": "1.4.8",
+    "changelog": "Versão 1.4.8\n• Barra de ping sobre o jogo: PING, hora do servidor e hora do PC. Liga e desliga em Opções. Se o RF Tool já mostra a barra dele, a do launcher fica escondida.\n• Botão \"Fechar jogo\" em cada cliente aberto (clique duas vezes para confirmar).\n• NJ: sai do siege para buffar e volta ao siege depois (opção ligada por padrão)."
 }
