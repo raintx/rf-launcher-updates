@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "cc29f042a39f9cf543a9e5e33c46a13f67aec1ec0a24727fc0e54bfb36b56e35",
+    "launcherSha256": "caa7c75131e48c45af90477c6ab564eca8334f468f6f39808cac648b88567c4c",
     "questsUrl": "",
     "releaseDate": "2026-10-29",
-    "version": "1.4.9",
-    "changelog": "Versão 1.4.9\n• NJ: a opção \"Sair do siege para buffar\" foi desligada. Armar o siege pelo launcher podia travar o personagem até relogar. Em siege, o NJ volta a agir como antes (o jogo recusa o buff).\n• Se o seu personagem ficou travado em siege, relogue."
+    "version": "1.4.10",
+    "changelog": "Versão 1.4.10\n• NJ: \"Sair do siege\" de volta, com a DLL corrigida. Por enquanto só com o kit de lança-chamas (o único conferido). Com outro kit, o NJ não mexe no siege.\n• Se o jogo não confirmar o siege de volta, o NJ não tenta de novo, desliga essa parte até reabrir o cliente e avisa."
 }
