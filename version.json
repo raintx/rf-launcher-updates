@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "944b0ad2b983f8758e7c367222dcfd5a55077ade5248ad87f7b3647c25fcf36c",
+    "launcherSha256": "cc29f042a39f9cf543a9e5e33c46a13f67aec1ec0a24727fc0e54bfb36b56e35",
     "questsUrl": "",
     "releaseDate": "2026-10-29",
-    "version": "1.4.8",
-    "changelog": "Versão 1.4.8\n• Barra de ping sobre o jogo: PING, hora do servidor e hora do PC. Liga e desliga em Opções. Se o RF Tool já mostra a barra dele, a do launcher fica escondida.\n• Botão \"Fechar jogo\" em cada cliente aberto (clique duas vezes para confirmar).\n• NJ: sai do siege para buffar e volta ao siege depois (opção ligada por padrão)."
+    "version": "1.4.9",
+    "changelog": "Versão 1.4.9\n• NJ: a opção \"Sair do siege para buffar\" foi desligada. Armar o siege pelo launcher podia travar o personagem até relogar. Em siege, o NJ volta a agir como antes (o jogo recusa o buff).\n• Se o seu personagem ficou travado em siege, relogue."
 }
