@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "da2818e00fa3048540efd5d0475a462bf8c958c95b915470df98465af01b9873",
+    "launcherSha256": "4d12cbd363bb75cc94ed417171937739baa160bd34c15dfbdbe9f14806af918f",
     "questsUrl": "",
     "releaseDate": "2026-10-29",
-    "version": "1.4.5",
-    "changelog": "Versão 1.4.5\n• Um atalho só: Insert (com o jogo à frente) abre um menu com o Treinador de buffs e o NJ por PM.\n• A tecla Delete volta a ser só do jogo."
+    "version": "1.4.6",
+    "changelog": "Versão 1.4.6\n• Treinador de buffs e títulos das janelas: mais leves com vários clientes (a leitura saiu da tela).\n• O Treinador abre na hora pelo menu do Insert e preenche logo depois."
 }
