@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "4d12cbd363bb75cc94ed417171937739baa160bd34c15dfbdbe9f14806af918f",
+    "launcherSha256": "0255b06ba40e1be6d409ce3a9932bff347265e4ef272b51c93992128418c7bc6",
     "questsUrl": "",
     "releaseDate": "2026-10-29",
-    "version": "1.4.6",
-    "changelog": "Versão 1.4.6\n• Treinador de buffs e títulos das janelas: mais leves com vários clientes (a leitura saiu da tela).\n• O Treinador abre na hora pelo menu do Insert e preenche logo depois."
+    "version": "1.4.7",
+    "changelog": "Versão 1.4.7\n• Treinador de buffs com visual novo. Skill não aprendida só é bloqueada quando o jogo confirma; sem leitura, aparece como \"não confirmado\".\n• NJ: as respostas por PM agora podem ser editadas em cada situação (deixe em branco para não responder) e não levam mais o \"NJ:\" na frente.\n• O launcher não trava mais enquanto um cliente do jogo está fechando ou parado. O NJ e o Treinador continuam funcionando."
 }
