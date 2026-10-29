@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "309b9b9f8dc28a1ed5ddb5f34125054957d4324159e9016b78ac2ed6b10e5ab3",
+    "launcherSha256": "2fdc2e136527022571bd1627d4ef0eb062515e585f0d215d8646b5aff68194f9",
     "questsUrl": "",
-    "releaseDate": "2026-10-28",
-    "version": "1.4.3",
-    "changelog": "Versão 1.4.3\n• Tab-Targeting: escolhe primeiro o mob mais perto do centro da tela (onde a câmera aponta).\n• Teclas presas: ao trocar de janela, o cliente solta a seta que estava apertada (o personagem não continua andando).\n• Abrir cliente: espera a DLL responder, também em PC lento."
+    "releaseDate": "2026-10-29",
+    "version": "1.4.4",
+    "changelog": "Versão 1.4.4\n• Mais estável com o RF Tool aberto junto: a DLL nunca entra duas vezes no mesmo cliente."
 }
