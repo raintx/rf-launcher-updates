@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "6b822592aa110bd8bfb418e3733f9df1fd6868cfb21f153b0bc00dfcd679cde4",
+    "launcherSha256": "88484afb34079da88c4a8c8d8278b91a2e42aa89cc24172e7dae5ea88c68604f",
     "questsUrl": "",
     "releaseDate": "2026-10-30",
-    "version": "1.4.12",
-    "changelog": "Versão 1.4.12\n• DLL atualizada (a mesma do RF Tool): em siege, o ataque básico e a troca de munição usam a regra certa do jogo e avisam quando o alvo está fora do alcance do siege.\n• Reabra o cliente do jogo depois de atualizar para a DLL nova valer."
+    "version": "1.4.13",
+    "changelog": "Versão 1.4.13\n• Com o launcher aberto, ele procura atualização a cada 30 min e mostra o aviso no topo. Nunca atualiza sozinho com o jogo aberto (o NJ, o Treinador e a barra param até o launcher reabrir).\n• Barra de ping: a hora do servidor tenta de novo quando o primeiro pedido se perde.\n• O launcher apaga as cópias antigas que cada versão deixava no disco (cerca de 150 MB cada).\n• Launcher dentro da pasta do jogo: acha o jogo direto ali."
 }
