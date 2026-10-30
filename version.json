@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "88484afb34079da88c4a8c8d8278b91a2e42aa89cc24172e7dae5ea88c68604f",
+    "launcherSha256": "f1b392db28ea0d1427f0f808d04cd3a0b789423280d86a8550308fcd191114d9",
     "questsUrl": "",
     "releaseDate": "2026-10-30",
-    "version": "1.4.13",
-    "changelog": "Versão 1.4.13\n• Com o launcher aberto, ele procura atualização a cada 30 min e mostra o aviso no topo. Nunca atualiza sozinho com o jogo aberto (o NJ, o Treinador e a barra param até o launcher reabrir).\n• Barra de ping: a hora do servidor tenta de novo quando o primeiro pedido se perde.\n• O launcher apaga as cópias antigas que cada versão deixava no disco (cerca de 150 MB cada).\n• Launcher dentro da pasta do jogo: acha o jogo direto ali."
+    "version": "1.4.14",
+    "changelog": "Versão 1.4.14\n• Menu do Insert: o NJ e o Treinador ganham o botão \"‹\" para voltar ao menu (o Esc também volta).\n• Menu do Insert, item Tab: escolha Mobs, Players ou Todos e, nos players, quais raças (Bellato, Cora, Accretia). Vale na hora para aquele cliente.\n• Menu do Insert, item Barra de ping: ligar/desligar e completa/compacta."
 }
