@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "d2bc88289f42e641c2a9e787cb72bf935f295eef458c5316d0c96632d64be2e4",
+    "launcherSha256": "6b822592aa110bd8bfb418e3733f9df1fd6868cfb21f153b0bc00dfcd679cde4",
     "questsUrl": "",
-    "releaseDate": "2026-10-29",
-    "version": "1.4.11",
-    "changelog": "Versão 1.4.11\n• NJ: opção nova \"Manter no grupo\" (desligada por padrão). Rebuffa a NJ nos membros do grupo do jogo pouco antes de acabar, sem precisar de PM.\n• Barra de ping: modo compacto (Ctrl + dois cliques na barra) e ela some quando a interface do jogo é escondida (Alt+H).\n• \"Mostrar janela\" não segura mais o launcher quando o jogo está lento ou fechando."
+    "releaseDate": "2026-10-30",
+    "version": "1.4.12",
+    "changelog": "Versão 1.4.12\n• DLL atualizada (a mesma do RF Tool): em siege, o ataque básico e a troca de munição usam a regra certa do jogo e avisam quando o alvo está fora do alcance do siege.\n• Reabra o cliente do jogo depois de atualizar para a DLL nova valer."
 }
