@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "caa7c75131e48c45af90477c6ab564eca8334f468f6f39808cac648b88567c4c",
+    "launcherSha256": "d2bc88289f42e641c2a9e787cb72bf935f295eef458c5316d0c96632d64be2e4",
     "questsUrl": "",
     "releaseDate": "2026-10-29",
-    "version": "1.4.10",
-    "changelog": "Versão 1.4.10\n• NJ: \"Sair do siege\" de volta, com a DLL corrigida. Por enquanto só com o kit de lança-chamas (o único conferido). Com outro kit, o NJ não mexe no siege.\n• Se o jogo não confirmar o siege de volta, o NJ não tenta de novo, desliga essa parte até reabrir o cliente e avisa."
+    "version": "1.4.11",
+    "changelog": "Versão 1.4.11\n• NJ: opção nova \"Manter no grupo\" (desligada por padrão). Rebuffa a NJ nos membros do grupo do jogo pouco antes de acabar, sem precisar de PM.\n• Barra de ping: modo compacto (Ctrl + dois cliques na barra) e ela some quando a interface do jogo é escondida (Alt+H).\n• \"Mostrar janela\" não segura mais o launcher quando o jogo está lento ou fechando."
 }
