@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "f1b392db28ea0d1427f0f808d04cd3a0b789423280d86a8550308fcd191114d9",
+    "launcherSha256": "be567f8c72eba7021eb784a4e2b9087b19d2077986b03a1fc39e9caff9336dfb",
     "questsUrl": "",
-    "releaseDate": "2026-10-30",
-    "version": "1.4.14",
-    "changelog": "Versão 1.4.14\n• Menu do Insert: o NJ e o Treinador ganham o botão \"‹\" para voltar ao menu (o Esc também volta).\n• Menu do Insert, item Tab: escolha Mobs, Players ou Todos e, nos players, quais raças (Bellato, Cora, Accretia). Vale na hora para aquele cliente.\n• Menu do Insert, item Barra de ping: ligar/desligar e completa/compacta."
+    "releaseDate": "2026-10-31",
+    "version": "1.4.15",
+    "changelog": "Versão 1.4.15\n• Barra de ping: quando o servidor do jogo não responde ping, a rota aparece aproximada (ex.: \"rota ~211 ms\"), medida até o roteador mais distante do caminho que responde."
 }
