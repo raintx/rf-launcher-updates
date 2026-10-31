@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.21",
+      "releaseDate": "2026-10-31",
+      "text": "Versão 1.4.21\n• DLL nova (a mesma do RF Tool): setas mais discretas, com o contador fixo embaixo da ponta. Feche e abra o cliente do jogo de novo depois de atualizar.\n• Notas: avisos curtos em inglês também ganham o botão Traduzir."
+    },
+    {
       "version": "1.4.20",
       "releaseDate": "2026-10-31",
       "text": "Versão 1.4.20\n• Fechar no × deixa o launcher perto do relógio: NJ, Treinador, setas, barra de ping e menu Insert continuam. Para sair: botão direito no ícone > Sair (dá para desligar em Opções).\n• Notas do jogo traduzidas para o português por IA local (baixa 116 MB na 1ª vez; traduz durante a atualização do jogo ou no botão Traduzir).\n• Mod do jogo: o Reparar não apaga mais as opções do mod; com as setas das missões do launcher ligadas, as do mod são desligadas (com o jogo fechado); aviso quando o Auto use do mod está ligado junto com o Treinador ou o NJ."
