@@ -1,0 +1,30 @@
+opus-mt-en-ROMANCE (ONNX, int8) - local translation model used by RfLauncher
+===========================================================================
+
+This folder redistributes, WITHOUT MODIFICATION, the following files of the
+Hugging Face repository "Xenova/opus-mt-en-ROMANCE", revision
+9d2ba69ac80c8e8453c3d9a1e2323a0e7b8ca3cd:
+
+  onnx/encoder_model_quantized.onnx
+  onnx/decoder_model_merged_quantized.onnx
+  source.spm, target.spm, vocab.json,
+  config.json, generation_config.json, tokenizer_config.json
+
+Original model: "Helsinki-NLP/opus-mt-en-ROMANCE" (OPUS-MT), by the Language
+Technology Research Group at the University of Helsinki (Helsinki-NLP).
+Licensed under the Apache License, Version 2.0 (see LICENSE in this folder).
+
+ONNX conversion and int8 quantization: Xenova (Joshua Lochner), distributed
+under the same Apache License, Version 2.0.
+
+Reference: Jorg Tiedemann and Santhosh Thottingal. 2020. "OPUS-MT - Building
+open translation services for the World". Proceedings of the 22nd Annual
+Conference of the European Association for Machine Translation (EAMT).
+
+The translation engine is ONNX Runtime (Microsoft Corporation), MIT License,
+bundled inside RfLauncher.exe (package Microsoft.ML.OnnxRuntime 1.22.1). The
+tokenizer is Microsoft.ML.Tokenizers (.NET Foundation), MIT License.
+
+Credit shown in the launcher (Notas tab):
+  "Tradução local: OPUS-MT (Universidade de Helsinque), Apache 2.0; ONNX por
+   Xenova; ONNX Runtime (Microsoft, MIT)."
