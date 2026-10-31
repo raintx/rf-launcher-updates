@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.19",
+      "releaseDate": "2026-10-31",
+      "text": "Versão 1.4.19\n• Menu do Insert, item Mobs: Icy Flower e Frosty Fern já vêm com seta em todo personagem (não contam no limite de 5).\n• Clique na etiqueta de um deles para desligar ou ligar de novo."
+    },
+    {
       "version": "1.4.18",
       "releaseDate": "2026-10-31",
       "text": "Versão 1.4.18\n• Nova aba Notas: as notas de atualização do jogo (inglês, com botão para o russo), a versão do cliente e o histórico de novidades do launcher.\n• Durante a atualização do jogo, o botão \"Ver novidades\" abre as notas."

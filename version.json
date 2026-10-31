@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "f9c03daf6fc99ff05af62390d2735ba067dc18f2eec5d3a60023e94ed17ab10e",
+    "launcherSha256": "17f38fce696706abf2304f79d826c7e193c38247192dd87ce6d04ddea084a13b",
     "questsUrl": "",
     "releaseDate": "2026-10-31",
-    "version": "1.4.18",
-    "changelog": "Versão 1.4.18\n• Nova aba Notas: as notas de atualização do jogo (inglês, com botão para o russo), a versão do cliente e o histórico de novidades do launcher.\n• Durante a atualização do jogo, o botão \"Ver novidades\" abre as notas."
+    "version": "1.4.19",
+    "changelog": "Versão 1.4.19\n• Menu do Insert, item Mobs: Icy Flower e Frosty Fern já vêm com seta em todo personagem (não contam no limite de 5).\n• Clique na etiqueta de um deles para desligar ou ligar de novo."
 }
