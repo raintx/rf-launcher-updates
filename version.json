@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "be567f8c72eba7021eb784a4e2b9087b19d2077986b03a1fc39e9caff9336dfb",
+    "launcherSha256": "a9bdbd214308e3d84c91e48c467eef8105526a747270b0a00a169530755afc9a",
     "questsUrl": "",
     "releaseDate": "2026-10-31",
-    "version": "1.4.15",
-    "changelog": "Versão 1.4.15\n• Barra de ping: quando o servidor do jogo não responde ping, a rota aparece aproximada (ex.: \"rota ~211 ms\"), medida até o roteador mais distante do caminho que responde."
+    "version": "1.4.16",
+    "changelog": "Versão 1.4.16\n• Atualização do jogo pelo launcher: confere a lista do servidor ao abrir, antes de lançar e a cada 15 min. Com \"Auto update do jogo\" ligado e o jogo fechado, baixa sozinho; senão avisa.\n• Tela de progresso: arquivo atual, quantos faltam, velocidade e tamanho.\n• Reparar corrigido: confere cada arquivo (SHA-256) com a lista do servidor e só troca o arquivo depois de conferido.\n• Pasta vazia: o launcher instala o jogo.\n• Jogo aberto quando sai atualização: aviso sobre o jogo, que some com um clique.\n• Nova opção \"Atualizar o launcher automaticamente\" (separada da do jogo)."
 }
