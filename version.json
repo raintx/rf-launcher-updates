@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "662c0c5ba8e020b7f91c9964b7ca08a592e6732014f0d454c4afa1f60f19685f",
+    "launcherSha256": "f9c03daf6fc99ff05af62390d2735ba067dc18f2eec5d3a60023e94ed17ab10e",
     "questsUrl": "",
     "releaseDate": "2026-10-31",
-    "version": "1.4.17",
-    "changelog": "Versão 1.4.17\n• Setas das missões: seta com o que falta (ex.: 3/20) em cima dos mobs das missões acompanhadas no Diário (abra o Diário uma vez). Liga e desliga em Opções ou no menu do Insert.\n• Menu do Insert, item Mobs: procure um mob pelo nome e ele ganha uma seta (até 5 tipos por personagem).\n• DLL nova (a mesma do RF Tool). Feche e abra o cliente do jogo de novo depois de atualizar."
+    "version": "1.4.18",
+    "changelog": "Versão 1.4.18\n• Nova aba Notas: as notas de atualização do jogo (inglês, com botão para o russo), a versão do cliente e o histórico de novidades do launcher.\n• Durante a atualização do jogo, o botão \"Ver novidades\" abre as notas."
 }
