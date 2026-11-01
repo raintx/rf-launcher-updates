@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.25",
+      "releaseDate": "2026-10-31",
+      "text": "Versão 1.4.25\n• Reportar problema: sondagem funda da DLL compartilhada (caminho, pastas vizinhas, processo e token), só para o suporte."
+    },
+    {
       "version": "1.4.24",
       "releaseDate": "2026-10-31",
       "text": "Versão 1.4.24\n• Reportar problema: a linha de sondagem da DLL compartilhada diz o caminho montado e até onde a pasta existe (para o suporte).\n• O modo de sondagem por linha de comando só grava em arquivos .txt ou .log."

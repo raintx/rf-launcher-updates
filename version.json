@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "49b13af9f932ba615e2edbac99d2f22b215ed7bf7c0263f5adbd063d7de7b726",
+    "launcherSha256": "0b088eddb53f6394e3382b595d3e38c72c9ecaaa08c828f2e28391b1bd187907",
     "questsUrl": "",
     "releaseDate": "2026-10-31",
-    "version": "1.4.24",
-    "changelog": "Versão 1.4.24\n• Reportar problema: a linha de sondagem da DLL compartilhada diz o caminho montado e até onde a pasta existe (para o suporte).\n• O modo de sondagem por linha de comando só grava em arquivos .txt ou .log."
+    "version": "1.4.25",
+    "changelog": "Versão 1.4.25\n• Reportar problema: sondagem funda da DLL compartilhada (caminho, pastas vizinhas, processo e token), só para o suporte."
 }
