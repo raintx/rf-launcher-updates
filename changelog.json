@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.26",
+      "releaseDate": "2026-10-31",
+      "text": "Versão 1.4.26\n• Botão \"Verificar atualização\" no rodapé e no menu do ícone perto do relógio: consulta na hora e, se houver versão nova, mostra o aviso \"Atualizar Agora\" sem precisar reiniciar. O resultado aparece em texto (\"Já está na versão mais recente\" / \"Há uma versão nova\").\n• O launcher passa a olhar por versão nova a cada 5 minutos (antes, 30) e avisa também por balão quando está escondido perto do relógio. Continua sem atualizar sozinho: só no clique (com cliente aberto, 2º clique).\n• DLL compartilhada do RF Tool (só no PC do dono): a pasta é criada no disco pelo launcher, para o RF Tool gravar nela."
+    },
+    {
       "version": "1.4.25",
       "releaseDate": "2026-10-31",
       "text": "Versão 1.4.25\n• Reportar problema: sondagem funda da DLL compartilhada (caminho, pastas vizinhas, processo e token), só para o suporte."
