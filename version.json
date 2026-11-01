@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "f504c9f6e0e004219c6f050f32f5d128952572b7853857331c0dc907b70fba67",
+    "launcherSha256": "b1f3b262709ff41cae04a88679ee1d9b4afc6858ab1b4c70beb44caafa7a8361",
     "questsUrl": "",
     "releaseDate": "2026-10-31",
-    "version": "1.4.22",
-    "changelog": "Versão 1.4.22\n• Gráficos: \"Exitlag (rota do servidor, sem o app)\" agora entra de verdade pelo endereço do ExitLag do mundo (antes só gravava a chave no ini). Sem a chave no ini = desligado.\n• Opções: nova caixa \"4 GB com o app ExitLag\" (desligada por padrão): liga a memória grande no próprio RF_Online.bin, que é o nome que o app do ExitLag reconhece; refeito a cada versão do jogo; desligar devolve o arquivo oficial. As duas caixas são exclusivas.\n• Aviso: com esse modo ligado o RF_Online.bin fica com 3 bytes diferentes do oficial (memória grande + checksum); o atualizador oficial devolve o original e o launcher refaz.\n• \"Usar RF_Online_4gb.bin\" fica cinza e desligada enquanto o modo está ligado; a escolha fica guardada e volta ao desligar.\n• Setas das missões: só a missão marcada como \"acompanhar\" no Diário ganha seta (igual ao RF Tool); a marca é lida sem precisar abrir o Diário.\n• Log: a escolha da RfTarget.dll (embutida, cache ou compartilhada) sempre deixa o motivo no log do launcher."
+    "version": "1.4.23",
+    "changelog": "Versão 1.4.23\n• Setas das missões maiores (o mesmo tamanho do RF Tool), sem giro, com o contador fixo embaixo da ponta.\n• Mod do jogo: com as setas do launcher ligadas, o \"Quest targets\" do mod é desligado sempre que aparecer ligado de novo (no jogo ou depois de um patch), na próxima abertura do cliente com o jogo fechado; o launcher avisa a cada vez. Só essa opção do mod é tocada.\n• Reportar problema: traz uma linha de sondagem da DLL compartilhada (para o suporte)."
 }
