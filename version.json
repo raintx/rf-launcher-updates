@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "b1f3b262709ff41cae04a88679ee1d9b4afc6858ab1b4c70beb44caafa7a8361",
+    "launcherSha256": "49b13af9f932ba615e2edbac99d2f22b215ed7bf7c0263f5adbd063d7de7b726",
     "questsUrl": "",
     "releaseDate": "2026-10-31",
-    "version": "1.4.23",
-    "changelog": "Versão 1.4.23\n• Setas das missões maiores (o mesmo tamanho do RF Tool), sem giro, com o contador fixo embaixo da ponta.\n• Mod do jogo: com as setas do launcher ligadas, o \"Quest targets\" do mod é desligado sempre que aparecer ligado de novo (no jogo ou depois de um patch), na próxima abertura do cliente com o jogo fechado; o launcher avisa a cada vez. Só essa opção do mod é tocada.\n• Reportar problema: traz uma linha de sondagem da DLL compartilhada (para o suporte)."
+    "version": "1.4.24",
+    "changelog": "Versão 1.4.24\n• Reportar problema: a linha de sondagem da DLL compartilhada diz o caminho montado e até onde a pasta existe (para o suporte).\n• O modo de sondagem por linha de comando só grava em arquivos .txt ou .log."
 }
