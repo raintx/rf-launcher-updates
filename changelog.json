@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.30",
+      "releaseDate": "2026-11-01",
+      "text": "Versão 1.4.30\n• Torres: a corda ficou grossa (largura da rota, com borda escura) e pendurada na altura da torre, mais fácil de ver.\n• Torres: enquanto o limite não é aprendido, o alcance da torre vira um palpite do limite, marcado \"estimado, não confirmado\"."
+    },
+    {
       "version": "1.4.29",
       "releaseDate": "2026-11-01",
       "text": "Versão 1.4.29\n• Torres: depois de montada, a torre parada continua com a corda e o círculo de alcance (antes sumiam). O limite entre torres também é aprendido com duas torres suas já em pé."

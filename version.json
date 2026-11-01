@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "fd07810457177155cd4d121f34883b8cf77a9457839ee0193e6a65ab4dd258bd",
+    "launcherSha256": "8a3ed83961aea2d671e86725bab96e80ee9058ac804f130a3261ae4a637eeed2",
     "questsUrl": "",
     "releaseDate": "2026-11-01",
-    "version": "1.4.29",
-    "changelog": "Versão 1.4.29\n• Torres: depois de montada, a torre parada continua com a corda e o círculo de alcance (antes sumiam). O limite entre torres também é aprendido com duas torres suas já em pé."
+    "version": "1.4.30",
+    "changelog": "Versão 1.4.30\n• Torres: a corda ficou grossa (largura da rota, com borda escura) e pendurada na altura da torre, mais fácil de ver.\n• Torres: enquanto o limite não é aprendido, o alcance da torre vira um palpite do limite, marcado \"estimado, não confirmado\"."
 }
