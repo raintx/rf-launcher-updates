@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "8a3ed83961aea2d671e86725bab96e80ee9058ac804f130a3261ae4a637eeed2",
+    "launcherSha256": "7ff10bff4d320c271eb09bbe00d142d9a9de75e8dc8f27a280bcc9890d0e7cf6",
     "questsUrl": "",
     "releaseDate": "2026-11-01",
-    "version": "1.4.30",
-    "changelog": "Versão 1.4.30\n• Torres: a corda ficou grossa (largura da rota, com borda escura) e pendurada na altura da torre, mais fácil de ver.\n• Torres: enquanto o limite não é aprendido, o alcance da torre vira um palpite do limite, marcado \"estimado, não confirmado\"."
+    "version": "1.4.31",
+    "changelog": "Versão 1.4.31\n• Torres: nova escolha \"Depois de montar\" (Mostrar / Esconder) na página Torres do Insert. Com \"Esconder\", a corda e o círculo só aparecem enquanto você arma uma torre; o limite continua sendo aprendido. Vale só para o cliente onde você escolheu e começa em \"Mostrar\"."
 }

@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.31",
+      "releaseDate": "2026-11-01",
+      "text": "Versão 1.4.31\n• Torres: nova escolha \"Depois de montar\" (Mostrar / Esconder) na página Torres do Insert. Com \"Esconder\", a corda e o círculo só aparecem enquanto você arma uma torre; o limite continua sendo aprendido. Vale só para o cliente onde você escolheu e começa em \"Mostrar\"."
+    },
+    {
       "version": "1.4.30",
       "releaseDate": "2026-11-01",
       "text": "Versão 1.4.30\n• Torres: a corda ficou grossa (largura da rota, com borda escura) e pendurada na altura da torre, mais fácil de ver.\n• Torres: enquanto o limite não é aprendido, o alcance da torre vira um palpite do limite, marcado \"estimado, não confirmado\"."
