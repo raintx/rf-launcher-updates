@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "7ff10bff4d320c271eb09bbe00d142d9a9de75e8dc8f27a280bcc9890d0e7cf6",
+    "launcherSha256": "348790801f0f45185e73882e49ef160d68d3c4c78dc8910842dbf126a928d5ea",
     "questsUrl": "",
     "releaseDate": "2026-11-01",
-    "version": "1.4.31",
-    "changelog": "Versão 1.4.31\n• Torres: nova escolha \"Depois de montar\" (Mostrar / Esconder) na página Torres do Insert. Com \"Esconder\", a corda e o círculo só aparecem enquanto você arma uma torre; o limite continua sendo aprendido. Vale só para o cliente onde você escolheu e começa em \"Mostrar\"."
+    "version": "1.4.32",
+    "changelog": "Versão 1.4.32\n• 4 GB: ao salvar Gráficos com a rota do servidor do ExitLag marcada, o \"4 GB com o app ExitLag\" sai (as duas são exclusivas), mas a memória grande continua pelo RF_Online_4gb.bin. Antes os clientes voltavam a abrir com 2 GB."
 }

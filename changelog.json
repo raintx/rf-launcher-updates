@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.32",
+      "releaseDate": "2026-11-01",
+      "text": "Versão 1.4.32\n• 4 GB: ao salvar Gráficos com a rota do servidor do ExitLag marcada, o \"4 GB com o app ExitLag\" sai (as duas são exclusivas), mas a memória grande continua pelo RF_Online_4gb.bin. Antes os clientes voltavam a abrir com 2 GB."
+    },
+    {
       "version": "1.4.31",
       "releaseDate": "2026-11-01",
       "text": "Versão 1.4.31\n• Torres: nova escolha \"Depois de montar\" (Mostrar / Esconder) na página Torres do Insert. Com \"Esconder\", a corda e o círculo só aparecem enquanto você arma uma torre; o limite continua sendo aprendido. Vale só para o cliente onde você escolheu e começa em \"Mostrar\"."
