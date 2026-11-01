@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "38f0d291e2d93588a6803f208180a3422db094f79819a7630ff3769bf814aa3a",
+    "launcherSha256": "171efffb1a99639e8e072972ec9691fa110d6da72b568d76e142f4172265c231",
     "questsUrl": "",
     "releaseDate": "2026-11-01",
-    "version": "1.4.27",
-    "changelog": "Versão 1.4.27\n• Reparar: botão \"Copiar\" (e Ctrl+C na lista) copia a lista de arquivos em texto. Avisos e erros mostram \"AVISO:\" / \"ERRO:\" na própria linha, não só pela cor.\n• Reportar problema: novo bloco \"Últimas quedas do jogo\" (horário, onde o jogo caiu e qual RfTarget estava carregada), lido dos registros de queda do jogo. Sem nome de personagem nem caminho de pasta."
+    "version": "1.4.28",
+    "changelog": "Versão 1.4.28\n• Menu Insert por personagem: Barra de ping, Setas das missões, mobs padrão (Icy Flower / Frosty Fern) e Tab ficam guardados para cada personagem e não mudam os outros clientes. As caixas de Opções viram o padrão para quem ainda não escolheu. Fora do mundo, as escolhas ficam bloqueadas (\"Entre no mundo\").\n• Novo item \"Torres\" no Insert: assistente de torre do Specialist. No chão aparecem a corda até a sua torre (inteira = pode, tracejada com X = perto demais, pontilhada = ainda não sei) e o alcance das torres. Vale só para o cliente onde você liga, nada fica salvo. Só para Specialist. Com o RF Tool aberto, o desenho fica com ele. Precisa da DLL no cliente (Tab, Treinador ou NJ ligados).\n• Reportar problema: as quedas já explicadas aparecem marcadas (\"no fechamento do jogo (conhecida, do mod; inofensiva)\" e \"capturada pelo mod\")."
 }
