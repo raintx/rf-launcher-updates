@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "c585d3956dc67b577f0e6f49822c2d845c8d06a3791743a6796d14103f19e574",
+    "launcherSha256": "88317eb790711c8e5bee3b2442169f4e8557d6aa6a0a90f714eca48019e56bff",
     "questsUrl": "",
     "releaseDate": "2026-11-02",
-    "version": "1.4.34",
-    "changelog": "Versão 1.4.34\n• Gráficos: novo cartão \"Imagem\" com Antialiasing, Cor e Nitidez (tudo Desligado por padrão). Precisa da RfTarget.dll 20261018.27 ou mais nova no cliente; com a DLL atual a opção avisa e nada é mandado.\n• NJ: o NJ só fala por PM e só com \"Responder\" ligado (regra travada em teste)."
+    "version": "1.4.35",
+    "changelog": "Versão 1.4.35\n• Torres: com a torre atirando, a corda e o círculo não somem mais no meio da luta.\n• NJ e siege: o NJ deixa o recurso de siege da DLL ligado depois do pedido, para não atrapalhar a rotação do RF Tool (antes um pedido podia voltar recusado).\n• Imagem: a escolha vale assim que é salva, mesmo se a gravação das configurações do jogo falhar.\n• Preparação das janelas do próprio jogo (menu Insert): ainda desligado; só funciona com a DLL .28, que ainda não saiu."
 }
