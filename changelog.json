@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.34",
+      "releaseDate": "2026-11-02",
+      "text": "Versão 1.4.34\n• Gráficos: novo cartão \"Imagem\" com Antialiasing, Cor e Nitidez (tudo Desligado por padrão). Precisa da RfTarget.dll 20261018.27 ou mais nova no cliente; com a DLL atual a opção avisa e nada é mandado.\n• NJ: o NJ só fala por PM e só com \"Responder\" ligado (regra travada em teste)."
+    },
+    {
       "version": "1.4.33",
       "releaseDate": "2026-11-02",
       "text": "Versão 1.4.33\n• NJ, Manter no grupo: com o siege armado e sem como sair dele, o NJ não fica mais tentando buffar o grupo; aparece \"grupo: em siege\" uma vez e ele espera.\n• NJ, Sair do siege: \"pedido ainda esperando o servidor\" e parecidos não desligam mais o passo até reabrir o cliente; ele tenta de novo.\n• NJ: quando não consegue ler o siege, o log avisa e as tentativas ficam espaçadas (10 s, 30 s, 60 s); o personagem recusado não prende a vez do grupo.\n• Texto: o launcher não injeta uma segunda DLL de texto quando o RF Tool já pôs a dele."
