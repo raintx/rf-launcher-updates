@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.33",
+      "releaseDate": "2026-11-02",
+      "text": "Versão 1.4.33\n• NJ, Manter no grupo: com o siege armado e sem como sair dele, o NJ não fica mais tentando buffar o grupo; aparece \"grupo: em siege\" uma vez e ele espera.\n• NJ, Sair do siege: \"pedido ainda esperando o servidor\" e parecidos não desligam mais o passo até reabrir o cliente; ele tenta de novo.\n• NJ: quando não consegue ler o siege, o log avisa e as tentativas ficam espaçadas (10 s, 30 s, 60 s); o personagem recusado não prende a vez do grupo.\n• Texto: o launcher não injeta uma segunda DLL de texto quando o RF Tool já pôs a dele."
+    },
+    {
       "version": "1.4.32",
       "releaseDate": "2026-11-01",
       "text": "Versão 1.4.32\n• 4 GB: ao salvar Gráficos com a rota do servidor do ExitLag marcada, o \"4 GB com o app ExitLag\" sai (as duas são exclusivas), mas a memória grande continua pelo RF_Online_4gb.bin. Antes os clientes voltavam a abrir com 2 GB."
