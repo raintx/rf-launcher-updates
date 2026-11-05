@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "88317eb790711c8e5bee3b2442169f4e8557d6aa6a0a90f714eca48019e56bff",
+    "launcherSha256": "5e04950fdffab6b403c7d2615efae01e4229c48cfafa1511e59657cef2993f24",
     "questsUrl": "",
-    "releaseDate": "2026-11-02",
-    "version": "1.4.35",
-    "changelog": "Versão 1.4.35\n• Torres: com a torre atirando, a corda e o círculo não somem mais no meio da luta.\n• NJ e siege: o NJ deixa o recurso de siege da DLL ligado depois do pedido, para não atrapalhar a rotação do RF Tool (antes um pedido podia voltar recusado).\n• Imagem: a escolha vale assim que é salva, mesmo se a gravação das configurações do jogo falhar.\n• Preparação das janelas do próprio jogo (menu Insert): ainda desligado; só funciona com a DLL .28, que ainda não saiu."
+    "releaseDate": "2026-11-05",
+    "version": "1.4.36",
+    "changelog": "Versão 1.4.36\n- Personagens e níveis carregados direto do servidor, com contorno indicando personagem logado, no lobby ou selecionado para Auto-Login.\n- Auto-Login: clique em um personagem no cartão para entrar automaticamente nele ao abrir o cliente.\n- Status em tempo real: mostra o personagem na seleção (Lobby), o mapa atual em jogo e avisa antes de logar se a conta já estiver conectada.\n- Detecção de contas banidas, suspensas ou com restrição de chat/trade, além dos botões Apagar conta e Trocar HWID em Detalhes.\n- Topo escuro integrado sem a barra clara do Windows, com barra de progresso no topo e instância única ao restaurar da bandeja.\n- RfTarget.dll 20261018.30."
 }
