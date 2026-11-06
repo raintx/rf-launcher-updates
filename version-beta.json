@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "94f0f41d9d51d1d3be13e125ae1e6437f92dd8293f1858efe2b06eeee0e9ce82",
+    "launcherSha256": "e20809395c9b5e190537cfedb285604ddde5eeccf752b2ada01233efc8aece7b",
     "questsUrl": "",
     "releaseDate": "2026-11-06",
-    "version": "1.4.42",
-    "changelog": "Auto-login 100% em segundo plano (sem mover cursor do mouse e sem roubar foco)"
+    "version": "1.4.43",
+    "changelog": "Auto-login em segundo plano (sem roubar mouse/foco); Menu Insert nativo CGUIWindow corrigido sem tela preta"
 }

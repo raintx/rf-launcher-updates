@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.43",
+      "releaseDate": "2026-11-06",
+      "text": "Auto-login em segundo plano (sem roubar mouse/foco); Menu Insert nativo CGUIWindow corrigido sem tela preta"
+    },
+    {
       "version": "1.4.42",
       "releaseDate": "2026-11-06",
       "text": "Auto-login 100% em segundo plano (sem mover cursor do mouse e sem roubar foco)"
@@ -245,11 +250,6 @@
       "version": "1.3.4",
       "releaseDate": "2026-10-25",
       "text": "🚀 Atualização v1.3.4:\n🛑 Correção do Botão Parar: o botão agora interrompe imediatamente o loop de treinamento e reseta os status da fila;\n↕️ Reordenação da Fila por Drag-and-Drop: agora é possível arrastar e soltar as habilidades dentro da própria fila para reordenar a prioridade de treino com o mouse;\n🧲 Movimentação Suave 'Bate e Fica': sistema de arrasto com captura de cursor que bate na borda do cliente de forma sólida e não passa nem 'buga';\n🖥️ Preservação no Alt-Tab: o overlay não fecha mais ao dar Alt-Tab; minimiza suavemente quando o jogo é minimizado e restaura quando o jogo volta;\n🌐 Suporte a múltiplos executáveis (RF_Online.bin e RF_Online_4gb.bin)."
-    },
-    {
-      "version": "1.3.3",
-      "releaseDate": "2026-10-25",
-      "text": "🚀 Atualização v1.3.3:\n🎯 Correção de Meta de Nível: corrigido bug onde a meta ficava travada em Lv 7 e a skill não pulava para a próxima ao atingir o nível desejado (ex: Lv 4);\n🎚️ Controle de Nível Deslizante & Digitável: Slider suave de 1 a 7 para arrastar com o mouse + campo direto para digitar o número + botões (+, -, MAX), eliminando popups brancos do Windows;\n📋 Ajuste de Meta em Tempo Real: agora é possível alterar a meta de nível diretamente nos itens da fila enquanto treina;\n📌 Janela Presa ao Jogo: overlay ancorado ao cliente RF_Online_4gb.bin, segue o movimento e não sai das bordas da tela;\n🖱️ Drag-and-Drop: suporte a arrastar habilidades do catálogo e soltar na fila de treino."
     }
   ]
 }
