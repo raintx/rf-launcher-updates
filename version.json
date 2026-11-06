@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "5e04950fdffab6b403c7d2615efae01e4229c48cfafa1511e59657cef2993f24",
+    "launcherSha256": "9e93f883059f73df678b44e570a320e32e7635e60743d217ccbb3bcaa7e870b5",
     "questsUrl": "",
     "releaseDate": "2026-11-05",
-    "version": "1.4.36",
-    "changelog": "Versão 1.4.36\n- Personagens e níveis carregados direto do servidor, com contorno indicando personagem logado, no lobby ou selecionado para Auto-Login.\n- Auto-Login: clique em um personagem no cartão para entrar automaticamente nele ao abrir o cliente.\n- Status em tempo real: mostra o personagem na seleção (Lobby), o mapa atual em jogo e avisa antes de logar se a conta já estiver conectada.\n- Detecção de contas banidas, suspensas ou com restrição de chat/trade, além dos botões Apagar conta e Trocar HWID em Detalhes.\n- Topo escuro integrado sem a barra clara do Windows, com barra de progresso no topo e instância única ao restaurar da bandeja.\n- RfTarget.dll 20261018.30."
+    "version": "1.4.37",
+    "changelog": "Barra de progresso individual por slot no Launcher; Interface nativa Dark Glass com interruptor deslizante e RfTarget.dll 20261018.31; Busca e catalogo de monstros no menu do jogo; Opcoes estendidas de NJ por PM nativas; Treinador de buffs 100% nativo no motor do jogo."
 }
