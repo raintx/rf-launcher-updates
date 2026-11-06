@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "5fa3638fa1b72d90238a8b7b287a85b7206d7ebcd34b969c43f23eb5d0078121",
+    "launcherSha256": "5a4796ae3c6865c7dc73c43cd597e02d095e2bc9afafeb852dc94cfb993bd035",
     "questsUrl": "",
     "releaseDate": "2026-11-06",
-    "version": "1.4.40",
-    "changelog": "Exibe classe e nivel dos personagens nas contas. Auto-login direto no personagem selecionado ao abrir cliente. Progresso de atualizacao unificado na barra superior nativa. RfTarget.dll 20261018.31."
+    "version": "1.4.41",
+    "changelog": "Menu Liquid Glass moderno e resizable em Direct3D 9, busca rapida de monstros com scroll, barra de atualizacao do launcher corrigida e autologin refinado com deteccao da tela inicial e selecao por Next Slot; RfTarget.dll 20261018.32."
 }
