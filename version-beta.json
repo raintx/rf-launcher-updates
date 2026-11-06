@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "9e93f883059f73df678b44e570a320e32e7635e60743d217ccbb3bcaa7e870b5",
+    "launcherSha256": "5bcb0662c0f2088a3415e497eb739a462477543be09acfa3df650d5f6b3021a8",
     "questsUrl": "",
-    "releaseDate": "2026-11-05",
-    "version": "1.4.37",
-    "changelog": "Barra de progresso individual por slot no Launcher; Interface nativa Dark Glass com interruptor deslizante e RfTarget.dll 20261018.31; Busca e catalogo de monstros no menu do jogo; Opcoes estendidas de NJ por PM nativas; Treinador de buffs 100% nativo no motor do jogo."
+    "releaseDate": "2026-11-06",
+    "version": "1.4.39",
+    "changelog": "Botao Fechar todos os clientes no Launcher; Desconexao automatica da conta no servidor ao fechar clientes; RfTarget.dll 20261018.31."
 }

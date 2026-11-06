@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.39",
+      "releaseDate": "2026-11-06",
+      "text": "Botao Fechar todos os clientes no Launcher; Desconexao automatica da conta no servidor ao fechar clientes; RfTarget.dll 20261018.31."
+    },
+    {
       "version": "1.4.38",
       "releaseDate": "2026-11-06",
       "text": "Canal Beta nas Opcoes com retorno suave para a versao oficial estavel; RfTarget.dll 20261018.31."
