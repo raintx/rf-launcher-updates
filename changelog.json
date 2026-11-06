@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.38",
+      "releaseDate": "2026-11-06",
+      "text": "Canal Beta nas Opcoes com retorno suave para a versao oficial estavel; RfTarget.dll 20261018.31."
+    },
+    {
       "version": "1.4.37",
       "releaseDate": "2026-11-05",
       "text": "Barra de progresso individual por slot no Launcher; Interface nativa Dark Glass com interruptor deslizante e RfTarget.dll 20261018.31; Busca e catalogo de monstros no menu do jogo; Opcoes estendidas de NJ por PM nativas; Treinador de buffs 100% nativo no motor do jogo."

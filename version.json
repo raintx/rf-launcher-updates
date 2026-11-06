@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "9e93f883059f73df678b44e570a320e32e7635e60743d217ccbb3bcaa7e870b5",
+    "launcherSha256": "6eb32b8e444de5470629355d96275601ea74a2a4ba283df39be305e2e379e9ff",
     "questsUrl": "",
-    "releaseDate": "2026-11-05",
-    "version": "1.4.37",
-    "changelog": "Barra de progresso individual por slot no Launcher; Interface nativa Dark Glass com interruptor deslizante e RfTarget.dll 20261018.31; Busca e catalogo de monstros no menu do jogo; Opcoes estendidas de NJ por PM nativas; Treinador de buffs 100% nativo no motor do jogo."
+    "releaseDate": "2026-11-06",
+    "version": "1.4.38",
+    "changelog": "Canal Beta nas Opcoes com retorno suave para a versao oficial estavel; RfTarget.dll 20261018.31."
 }
