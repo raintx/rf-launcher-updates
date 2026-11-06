@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "5a4796ae3c6865c7dc73c43cd597e02d095e2bc9afafeb852dc94cfb993bd035",
+    "launcherSha256": "94f0f41d9d51d1d3be13e125ae1e6437f92dd8293f1858efe2b06eeee0e9ce82",
     "questsUrl": "",
     "releaseDate": "2026-11-06",
-    "version": "1.4.41",
-    "changelog": "Menu Liquid Glass moderno e resizable em Direct3D 9, busca rapida de monstros com scroll, barra de atualizacao do launcher corrigida e autologin refinado com deteccao da tela inicial e selecao por Next Slot; RfTarget.dll 20261018.32."
+    "version": "1.4.42",
+    "changelog": "Auto-login 100% em segundo plano (sem mover cursor do mouse e sem roubar foco)"
 }
