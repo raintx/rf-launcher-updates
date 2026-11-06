@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.40",
+      "releaseDate": "2026-11-06",
+      "text": "Exibe classe e nivel dos personagens nas contas. Auto-login direto no personagem selecionado ao abrir cliente. Progresso de atualizacao unificado na barra superior nativa. RfTarget.dll 20261018.31."
+    },
+    {
       "version": "1.4.39",
       "releaseDate": "2026-11-06",
       "text": "Botao Fechar todos os clientes no Launcher; Desconexao automatica da conta no servidor ao fechar clientes; RfTarget.dll 20261018.31."
