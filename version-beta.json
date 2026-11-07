@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "6835097d36ff2e8f108a83f0b00cd631fec491571581d1e329e5e432b1e11f17",
+    "launcherSha256": "a0d2d39a547160020d77e598ec41aeeab0ab852eb0fdfd91e6568e504601ed3d",
     "questsUrl": "",
     "releaseDate": "2026-11-06",
-    "version": "1.4.44",
-    "changelog": "Auto-login: acionamento de Start na tela inicial em segundo plano (Enter + clique não ativador)"
+    "version": "1.4.45",
+    "changelog": "Novo menu In-Game (Insert) no padrao Argon/Mod settings (600x350) com 7 abas, busca de mobs com sugestoes ao vivo e auto-login via RFT_AUTOLOGIN; RfTarget.dll 20261018.33."
 }
