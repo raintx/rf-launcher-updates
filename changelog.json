@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.55-b",
+      "releaseDate": "2026-11-07",
+      "text": "Novus Codex: correcao do fundo escuro do seletor de personagem, modelo 3D volumetrico solido com iluminacao, aba de Mapa Tatico com rota e piloto automatico conectado in-game."
+    },
+    {
       "version": "1.4.54-b",
       "releaseDate": "2026-11-07",
       "text": "Novus Codex: tema cibernetico holografico dark glass no seletor de personagens sem fundo branco nativo do Windows. Catalogo de monstros 100 por cento real da memoria do cliente e do MobAtlas coletivo."
@@ -245,11 +250,6 @@
       "version": "1.4.6",
       "releaseDate": "2026-10-29",
       "text": "Versão 1.4.6\n• Treinador de buffs e títulos das janelas: mais leves com vários clientes (a leitura saiu da tela).\n• O Treinador abre na hora pelo menu do Insert e preenche logo depois."
-    },
-    {
-      "version": "1.4.5",
-      "releaseDate": "2026-10-29",
-      "text": "Versão 1.4.5\n• Um atalho só: Insert (com o jogo à frente) abre um menu com o Treinador de buffs e o NJ por PM.\n• A tecla Delete volta a ser só do jogo."
     }
   ]
 }

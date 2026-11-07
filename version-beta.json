@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "a0714409a7e6a80e8c49845817181dee32ad45a19c6d067acd8245a3368d81e8",
+    "launcherSha256": "ebbdb8ed3a51f290196bc652ef6e5d68c9585653b8a76524dc3bbfafe7daaade",
     "questsUrl": "",
     "releaseDate": "2026-11-07",
-    "version": "1.4.54-b",
-    "changelog": "Novus Codex: tema cibernetico holografico dark glass no seletor de personagens sem fundo branco nativo do Windows. Catalogo de monstros 100 por cento real da memoria do cliente e do MobAtlas coletivo."
+    "version": "1.4.55-b",
+    "changelog": "Novus Codex: correcao do fundo escuro do seletor de personagem, modelo 3D volumetrico solido com iluminacao, aba de Mapa Tatico com rota e piloto automatico conectado in-game."
 }
