@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.58-b",
+      "releaseDate": "2026-11-07",
+      "text": "Novus Codex v2.3: correcao critica de travamento do jogo, liberacao imediata do owner/input Win32, otimizacao de busca instantanea em memoria, carregamento leve assincrono de drops e cache de terreno BSP"
+    },
+    {
       "version": "1.4.57-b",
       "releaseDate": "2026-11-07",
       "text": "Novus Codex v2.2: correcao completa da projecao do mapa real bsp com TacticalMapTransform, foco e reticulo tatico no spot do mob selecionado, duplo clique e botoes de atalho rapido GPS e Piloto nos cards, e busca reversa por drops oficiais"
@@ -245,11 +250,6 @@
       "version": "1.4.9",
       "releaseDate": "2026-10-29",
       "text": "Versão 1.4.9\n• NJ: a opção \"Sair do siege para buffar\" foi desligada. Armar o siege pelo launcher podia travar o personagem até relogar. Em siege, o NJ volta a agir como antes (o jogo recusa o buff).\n• Se o seu personagem ficou travado em siege, relogue."
-    },
-    {
-      "version": "1.4.8",
-      "releaseDate": "2026-10-29",
-      "text": "Versão 1.4.8\n• Barra de ping sobre o jogo: PING, hora do servidor e hora do PC. Liga e desliga em Opções. Se o RF Tool já mostra a barra dele, a do launcher fica escondida.\n• Botão \"Fechar jogo\" em cada cliente aberto (clique duas vezes para confirmar).\n• NJ: sai do siege para buffar e volta ao siege depois (opção ligada por padrão)."
     }
   ]
 }

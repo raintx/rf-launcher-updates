@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "0edcc371d6ceb405e8bbe96e590b06c6c898113eecefb96f38401b552a4947c9",
+    "launcherSha256": "81786ea3fd2df5e8fc45cb7905825b4470aac13e106e76d471496bb760871114",
     "questsUrl": "",
     "releaseDate": "2026-11-07",
-    "version": "1.4.57-b",
-    "changelog": "Novus Codex v2.2: correcao completa da projecao do mapa real bsp com TacticalMapTransform, foco e reticulo tatico no spot do mob selecionado, duplo clique e botoes de atalho rapido GPS e Piloto nos cards, e busca reversa por drops oficiais"
+    "version": "1.4.58-b",
+    "changelog": "Novus Codex v2.3: correcao critica de travamento do jogo, liberacao imediata do owner/input Win32, otimizacao de busca instantanea em memoria, carregamento leve assincrono de drops e cache de terreno BSP"
 }
