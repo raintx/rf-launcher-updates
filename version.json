@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher.exe",
     "mandatory": false,
-    "launcherSha256": "6eb32b8e444de5470629355d96275601ea74a2a4ba283df39be305e2e379e9ff",
+    "launcherSha256": "379209be4b90d18b0fa189f38b4fd871b58a046f15330ded0a4886964bc3b2c3",
     "questsUrl": "",
-    "releaseDate": "2026-11-06",
-    "version": "1.4.38",
-    "changelog": "Canal Beta nas Opcoes com retorno suave para a versao oficial estavel; RfTarget.dll 20261018.31."
+    "releaseDate": "2026-11-07",
+    "version": "1.4.49",
+    "changelog": "Menu Insert WPF Dark Glass (760x640) com todas as 7 abas, Treinador de Buffs em 2 colunas lado a lado e integracao real com as projecoes in-game; RfTarget.dll 20261018.33."
 }
