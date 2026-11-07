@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "0221f088829f5441fba1ddb4bec32456313034059eab4a97629e83c1e343883a",
+    "launcherSha256": "26eb119c0766419f1569875593cc61b358ad7249441fbddbf44dadcdca0d8a05",
     "questsUrl": "",
     "releaseDate": "2026-11-06",
-    "version": "1.4.47",
-    "changelog": "Menu In-Game (Insert) com altura 500px (mesma proporcao 600x500 do Mod settings) e barra de rolagem escura; RfTarget.dll 20261018.33."
+    "version": "1.4.48",
+    "changelog": "- Menu Insert: removidos todos os dados mockados e conectado o Treinador de Buffs e NJ por PM reais do cliente"
 }
