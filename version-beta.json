@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "26eb119c0766419f1569875593cc61b358ad7249441fbddbf44dadcdca0d8a05",
+    "launcherSha256": "78f2e6bc67874cb68466dcbcef369c28f8c0fc3ae252302dde8e7d8900439f6f",
     "questsUrl": "",
-    "releaseDate": "2026-11-06",
-    "version": "1.4.48",
-    "changelog": "- Menu Insert: removidos todos os dados mockados e conectado o Treinador de Buffs e NJ por PM reais do cliente"
+    "releaseDate": "2026-11-07",
+    "version": "1.4.49",
+    "changelog": "Menu Insert WPF Dark Glass (760x640) com todas as 7 abas, Treinador de Buffs em 2 colunas lado a lado e integracao real com as projecoes in-game"
 }
