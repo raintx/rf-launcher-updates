@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "38a448edb2829cb612ac7f7b6b7cabeeb2fe9034a89b7a6aeea1b3351dab8f80",
+    "launcherSha256": "a0714409a7e6a80e8c49845817181dee32ad45a19c6d067acd8245a3368d81e8",
     "questsUrl": "",
     "releaseDate": "2026-11-07",
-    "version": "1.4.53-b",
-    "changelog": "Novus Codex: telemetria, rotas de GPS e piloto automático isolados por personagem/cliente (nada vasa entre clientes); seletor de personagem ativo na janela 3D; menu Insert vinculado ao char atual."
+    "version": "1.4.54-b",
+    "changelog": "Novus Codex: tema cibernetico holografico dark glass no seletor de personagens sem fundo branco nativo do Windows. Catalogo de monstros 100 por cento real da memoria do cliente e do MobAtlas coletivo."
 }
