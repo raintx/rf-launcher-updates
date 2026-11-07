@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "0c3df69341149b654c62c10e689eefe2f8c4b8c4e0a811ecc1bc604291514790",
+    "launcherSha256": "0edcc371d6ceb405e8bbe96e590b06c6c898113eecefb96f38401b552a4947c9",
     "questsUrl": "",
     "releaseDate": "2026-11-07",
-    "version": "1.4.56-b",
-    "changelog": "Novus Codex v2.1: tema Dark Glass Cibernético no ComboBox de personagens, TacticalMapControl nativo DirectX a 60 FPS com mapa real do cliente, rota e spots do atlas, e ficha de espécime com drops oficiais da KBase Cerberus"
+    "version": "1.4.57-b",
+    "changelog": "Novus Codex v2.2: correcao completa da projecao do mapa real bsp com TacticalMapTransform, foco e reticulo tatico no spot do mob selecionado, duplo clique e botoes de atalho rapido GPS e Piloto nos cards, e busca reversa por drops oficiais"
 }
