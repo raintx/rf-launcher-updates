@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.56-b",
+      "releaseDate": "2026-11-07",
+      "text": "Novus Codex v2.1: tema Dark Glass Cibernético no ComboBox de personagens, TacticalMapControl nativo DirectX a 60 FPS com mapa real do cliente, rota e spots do atlas, e ficha de espécime com drops oficiais da KBase Cerberus"
+    },
+    {
       "version": "1.4.55-b",
       "releaseDate": "2026-11-07",
       "text": "Novus Codex: correcao do fundo escuro do seletor de personagem, modelo 3D volumetrico solido com iluminacao, aba de Mapa Tatico com rota e piloto automatico conectado in-game."
@@ -245,11 +250,6 @@
       "version": "1.4.7",
       "releaseDate": "2026-10-29",
       "text": "Versão 1.4.7\n• Treinador de buffs com visual novo. Skill não aprendida só é bloqueada quando o jogo confirma; sem leitura, aparece como \"não confirmado\".\n• NJ: as respostas por PM agora podem ser editadas em cada situação (deixe em branco para não responder) e não levam mais o \"NJ:\" na frente.\n• O launcher não trava mais enquanto um cliente do jogo está fechando ou parado. O NJ e o Treinador continuam funcionando."
-    },
-    {
-      "version": "1.4.6",
-      "releaseDate": "2026-10-29",
-      "text": "Versão 1.4.6\n• Treinador de buffs e títulos das janelas: mais leves com vários clientes (a leitura saiu da tela).\n• O Treinador abre na hora pelo menu do Insert e preenche logo depois."
     }
   ]
 }
