@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.50b",
+      "releaseDate": "2026-11-07",
+      "text": "Versao 1.4.50b\n• Treinador de Buffs: suporte completo a skills de Force (RfTarget.dll build 20261018.34), filtro de categorias com tema escuro legivel e suporte a arrastar e soltar (Drag-and-Drop) para adicionar ou reordenar skills na fila.\n• Menu Insert: lembra automaticamente a ultima aba aberta ao fechar e reabrir com Insert.\n• Topo do Launcher: exibe a versao atual ao lado de RF Cerberus com demarcacao de canal (b = beta, r = release)."
+    },
+    {
       "version": "1.4.49",
       "releaseDate": "2026-11-07",
       "text": "Menu Insert WPF Dark Glass (760x640) com todas as 7 abas, Treinador de Buffs em 2 colunas lado a lado e integracao real com as projecoes in-game; RfTarget.dll 20261018.33."
@@ -245,11 +250,6 @@
       "version": "1.4.1",
       "releaseDate": "2026-10-27",
       "text": "Versão 1.4.1\n• Contas: uma conta logada em outro PC não trava mais o slot; a lista mostra \"outro PC\".\n• NJ por PM: lembra o personagem e liga sozinho; tira o alvo depois do buff."
-    },
-    {
-      "version": "1.4.0",
-      "releaseDate": "2026-10-27",
-      "text": "Versão 1.4.0: interface nova\n• Contas: um cartão por slot, com Premium, Cash, tempo jogado e personagens.\n• Gráficos: resolução recomendada, régua, resolução e perfil por slot, modo Sem borda e Tela cheia.\n• Reparar: console dos arquivos e lista de Exceções.\n• Reportar problema: copia ou salva o relatório com a captura de tela.\n• Texto russo e português legível, automático.\n• NJ por PM (opcional, tecla DEL).\n• Opção \"Reduzir animações\"."
     }
   ]
 }
