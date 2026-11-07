@@ -2,9 +2,9 @@
   "schema": 1,
   "entries": [
     {
-      "version": "1.4.51-b",
+      "version": "1.4.51-r",
       "releaseDate": "2026-11-07",
-      "text": "Menu Insert: busca de mobs sempre habilitada e instantânea; 3 cards estruturados da aba Torres restaurados com badge de status; lembrança da última aba aberta ao usar a tecla Insert; Treinador de Buffs com tema escuro garantido, arrastar skills para a fila e diagnósticos claros para forças e recusas."
+      "text": "Menu Insert: busca de mobs sempre habilitada e instantanea; 3 cards estruturados da aba Torres restaurados com badge de status; lembranca da ultima aba aberta ao usar a tecla Insert; Treinador de Buffs com tema escuro garantido, arrastar skills para a fila e diagnosticos claros para forcas e recusas; RfTarget.dll 20261018.34."
     },
     {
       "version": "1.4.50-b",
