@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "a0d2d39a547160020d77e598ec41aeeab0ab852eb0fdfd91e6568e504601ed3d",
+    "launcherSha256": "f9648d42f9d42395acb4ffa7663845e585b0208f318080c7368ed71f52cab606",
     "questsUrl": "",
     "releaseDate": "2026-11-06",
-    "version": "1.4.45",
-    "changelog": "Novo menu In-Game (Insert) no padrao Argon/Mod settings (600x350) com 7 abas, busca de mobs com sugestoes ao vivo e auto-login via RFT_AUTOLOGIN; RfTarget.dll 20261018.33."
+    "version": "1.4.46",
+    "changelog": "Correcao da abertura do Menu In-Game (Insert) e paridade 1:1 com esboco Argon; RfTarget.dll 20261018.33."
 }
