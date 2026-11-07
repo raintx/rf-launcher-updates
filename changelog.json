@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.52-b",
+      "releaseDate": "2026-11-07",
+      "text": "Novus Codex: Bio-Atlas holográfico 3D de espécimes, radar orbital com bússola, catálogo colaborativo de spots com clusterização e navegação tática (Modo Guia Visual GPS e Piloto Automático). Integrado no Menu Insert e na tela inicial do Launcher."
+    },
+    {
       "version": "1.4.51-r",
       "releaseDate": "2026-11-07",
       "text": "Menu Insert: busca de mobs sempre habilitada e instantanea; 3 cards estruturados da aba Torres restaurados com badge de status; lembranca da ultima aba aberta ao usar a tecla Insert; Treinador de Buffs com tema escuro garantido, arrastar skills para a fila e diagnosticos claros para forcas e recusas; RfTarget.dll 20261018.34."
@@ -245,11 +250,6 @@
       "version": "1.4.3",
       "releaseDate": "2026-10-28",
       "text": "Versão 1.4.3\n• Tab-Targeting: escolhe primeiro o mob mais perto do centro da tela (onde a câmera aponta).\n• Teclas presas: ao trocar de janela, o cliente solta a seta que estava apertada (o personagem não continua andando).\n• Abrir cliente: espera a DLL responder, também em PC lento."
-    },
-    {
-      "version": "1.4.2",
-      "releaseDate": "2026-10-28",
-      "text": "Versão 1.4.2\n• Treinador de buffs: mais leve com 2 ou mais clientes abertos."
     }
   ]
 }
