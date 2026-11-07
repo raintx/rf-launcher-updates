@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "6f1281319fbd88d95003f809c5cc30204354b4e5e52ed31ea5cf64d428ee0c3b",
+    "launcherSha256": "d9df38638ab571cfac1e2f2b10ac9c0a66fe52cd7d99c26fd4cd18fb90a6c67a",
     "questsUrl": "",
     "releaseDate": "2026-11-07",
-    "version": "1.4.50b",
+    "version": "1.4.50-b",
     "changelog": "Versao 1.4.50b\n• Treinador de Buffs: suporte completo a skills de Force (RfTarget.dll build 20261018.34), filtro de categorias com tema escuro legivel e suporte a arrastar e soltar (Drag-and-Drop) para adicionar ou reordenar skills na fila.\n• Menu Insert: lembra automaticamente a ultima aba aberta ao fechar e reabrir com Insert.\n• Topo do Launcher: exibe a versao atual ao lado de RF Cerberus com demarcacao de canal (b = beta, r = release)."
 }

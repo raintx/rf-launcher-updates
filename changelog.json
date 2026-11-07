@@ -2,7 +2,7 @@
   "schema": 1,
   "entries": [
     {
-      "version": "1.4.50b",
+      "version": "1.4.50-b",
       "releaseDate": "2026-11-07",
       "text": "Versao 1.4.50b\n• Treinador de Buffs: suporte completo a skills de Force (RfTarget.dll build 20261018.34), filtro de categorias com tema escuro legivel e suporte a arrastar e soltar (Drag-and-Drop) para adicionar ou reordenar skills na fila.\n• Menu Insert: lembra automaticamente a ultima aba aberta ao fechar e reabrir com Insert.\n• Topo do Launcher: exibe a versao atual ao lado de RF Cerberus com demarcacao de canal (b = beta, r = release)."
     },
