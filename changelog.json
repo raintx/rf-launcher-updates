@@ -2,6 +2,11 @@
   "schema": 1,
   "entries": [
     {
+      "version": "1.4.53-b",
+      "releaseDate": "2026-11-07",
+      "text": "Novus Codex: telemetria, rotas de GPS e piloto automático isolados por personagem/cliente (nada vasa entre clientes); seletor de personagem ativo na janela 3D; menu Insert vinculado ao char atual."
+    },
+    {
       "version": "1.4.52-b",
       "releaseDate": "2026-11-07",
       "text": "Novus Codex: Bio-Atlas holográfico 3D de espécimes, radar orbital com bússola, catálogo colaborativo de spots com clusterização e navegação tática (Modo Guia Visual GPS e Piloto Automático). Integrado no Menu Insert e na tela inicial do Launcher."
@@ -245,11 +250,6 @@
       "version": "1.4.4",
       "releaseDate": "2026-10-29",
       "text": "Versão 1.4.4\n• Mais estável com o RF Tool aberto junto: a DLL nunca entra duas vezes no mesmo cliente."
-    },
-    {
-      "version": "1.4.3",
-      "releaseDate": "2026-10-28",
-      "text": "Versão 1.4.3\n• Tab-Targeting: escolhe primeiro o mob mais perto do centro da tela (onde a câmera aponta).\n• Teclas presas: ao trocar de janela, o cliente solta a seta que estava apertada (o personagem não continua andando).\n• Abrir cliente: espera a DLL responder, também em PC lento."
     }
   ]
 }
