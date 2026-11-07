@@ -2,9 +2,9 @@
     "questsVersion": "1.0.0",
     "launcherUrl": "https://raw.githubusercontent.com/raintx/rf-launcher-updates/main/RfLauncher-beta.exe",
     "mandatory": false,
-    "launcherSha256": "f9648d42f9d42395acb4ffa7663845e585b0208f318080c7368ed71f52cab606",
+    "launcherSha256": "0221f088829f5441fba1ddb4bec32456313034059eab4a97629e83c1e343883a",
     "questsUrl": "",
     "releaseDate": "2026-11-06",
-    "version": "1.4.46",
-    "changelog": "Correcao da abertura do Menu In-Game (Insert) e paridade 1:1 com esboco Argon; RfTarget.dll 20261018.33."
+    "version": "1.4.47",
+    "changelog": "Menu In-Game (Insert) com altura 500px (mesma proporcao 600x500 do Mod settings) e barra de rolagem escura; RfTarget.dll 20261018.33."
 }
